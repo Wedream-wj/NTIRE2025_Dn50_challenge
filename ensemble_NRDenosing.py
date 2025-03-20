@@ -10,7 +10,7 @@ import logging
 dir1 = r"NTIRE2025_Challenge/results/06_NAFNetLocal/test"
 dir2 = r"NTIRE2025_Challenge/results/06_RCAN/test"
 
-weights = [0.98, 0.02]
+weights = [0.95, 0.05]
 
 
 output_dir = "NTIRE2025_Challenge/results/06_NRDenosing_ensemble/test"
